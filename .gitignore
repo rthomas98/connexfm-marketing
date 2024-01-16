@@ -41,6 +41,12 @@ Thumbs.db
 #---------------------------
 /.logs/
 
+
+#---------------------------
+# ai1wm-backups
+#---------------------------
+/ai1wm-backups/
+
 autoupdater_maintenance_mode_enabled.tmp
 
 #---------------------------
